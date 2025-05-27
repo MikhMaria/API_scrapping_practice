@@ -8,7 +8,7 @@ import random
 
 from task4_1 import message
 
-bot = telebot.TeleBot('8148791348:AAHEcM3zRBuU-2D6vZzG3bzJJTlz-R5GyYA')
+bot = telebot.TeleBot('')
 url = 'https:h//um.spbstu.ru/news/practice_vshlip/'
 
 
